@@ -1,4 +1,6 @@
-# Miscellaneous
+build/
+*.mp4
+*.zip# Miscellaneous
 *.class
 *.log
 *.pyc
